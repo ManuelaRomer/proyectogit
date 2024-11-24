@@ -1,0 +1,1 @@
+Este archivo se creo para utilizar el comando y funcionalidad de git ignore
